@@ -1,4 +1,4 @@
-# inversewin32
+# matInversewin32
 Finished and uploaded January 4th, 2023.
 Used C++ and Win32 API (Visual Studio).
 This is a simple Windows program that allows the user to input the dimensions of matrix (1~9) and the matrix itself. Then it displays the inverse of the matrix and
